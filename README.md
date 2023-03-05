@@ -18,6 +18,7 @@
 
 ## Browser
 * Bromite - [Website](https://www.bromite.org/) - [F-Droid Repo](https://fdroid.bromite.org/fdroid/repo)
+* Tor-Browser for Android - [Website](https://guardianproject.info/apps/org.torproject.torbrowser/) - [F-Droid Repo](https://guardianproject.info/fdroid/repo)
 
 ## Calendar / Tasks
 * Etar - OpenSource Calendar - [F-Droid](https://f-droid.org/packages/ws.xsoh.etar/)
@@ -28,7 +29,7 @@
 * HN - Read and comment on tech news - [F-Droid](https://f-droid.org/en/packages/com.manuelmaly.hn/)
 * NewPipe - The lightweight YouTube experience for Android - [Website](https://newpipe.net/) - [F-Droid Repo](https://archive.newpipe.net/fdroid/repo) - [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
 * RadioDroid -  Browse and stream internet radios - [F-Droid](https://f-droid.org/en/packages/net.programmierecke.radiodroid2/)
-*  RedReader - Client for reddit.com - [F-Droid](https://f-droid.org/en/packages/org.quantumbadger.redreader/)
+* RedReader - Client for reddit.com - [F-Droid](https://f-droid.org/en/packages/org.quantumbadger.redreader/)
 * Twidere - Microblogging client - [F-Droid](https://f-droid.org/en/packages/org.mariotaku.twidere/)
 
 ## Misc
